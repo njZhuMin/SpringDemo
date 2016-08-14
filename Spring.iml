@@ -16,6 +16,11 @@
           <file>file://$MODULE_DIR$/src/test/java/com/sunnywr/test/beanannotation/spring-beanannotation.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/spring-beanannotation.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/config.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-schema-advice.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-schema-aspect.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-schema-advisors.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-api.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-aspectj.xml</file>
         </fileset>
       </configuration>
     </facet>
@@ -42,5 +47,6 @@
     <orderEntry type="library" name="Maven: javax:javaee-api:7.0" level="project" />
     <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.5.0" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.8.4" level="project" />
   </component>
 </module>
