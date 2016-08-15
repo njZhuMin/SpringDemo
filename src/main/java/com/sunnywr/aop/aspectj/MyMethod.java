@@ -1,4 +1,4 @@
-package com.sunnywr.aop.aspectj.biz;
+package com.sunnywr.aop.aspectj;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

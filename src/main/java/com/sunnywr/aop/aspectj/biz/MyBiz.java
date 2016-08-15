@@ -1,5 +1,6 @@
 package com.sunnywr.aop.aspectj.biz;
 
+import com.sunnywr.aop.aspectj.MyMethod;
 import org.springframework.stereotype.Service;
 
 @Service

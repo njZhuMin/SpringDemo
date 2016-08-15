@@ -1,6 +1,5 @@
 package com.sunnywr.aop.aspectj;
 
-import com.sunnywr.aop.aspectj.biz.MyMethod;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.*;
 import org.springframework.stereotype.Component;
